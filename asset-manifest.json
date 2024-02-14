@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nani/static/css/main.f349675e.css",
+    "main.js": "/nani/static/js/main.deadccf8.js",
+    "static/js/787.42d7465a.chunk.js": "/nani/static/js/787.42d7465a.chunk.js",
+    "index.html": "/nani/index.html",
+    "main.f349675e.css.map": "/nani/static/css/main.f349675e.css.map",
+    "main.deadccf8.js.map": "/nani/static/js/main.deadccf8.js.map",
+    "787.42d7465a.chunk.js.map": "/nani/static/js/787.42d7465a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f349675e.css",
+    "static/js/main.deadccf8.js"
+  ]
+}
